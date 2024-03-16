@@ -5,9 +5,11 @@ img_path: "/assets/img/about-tab"
 order: 4
 ---
 
-**欢迎来到紫藤博客**
+**欢迎来到紫藤博客小说分博客**
 
 不知道关于这里写些什么好,总之,本站使用Jekyll的Chripy主题的改版Notebook,感谢开发者的贡献!
+
+[总博客](https://dachuziyi.github.io/Notebook/)
 
 关于我
 
